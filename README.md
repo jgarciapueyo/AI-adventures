@@ -8,8 +8,8 @@ This project was born in response to my interest in Artificial Intelligence and 
 
 # Algorithms implemented
 
-[MachineLearning](MachineLearning)
-1. [PCA](MachineLearning/1_PCA.ipynb)
-2. [Linear Regression](MachineLearning/2_LinearRegression.ipynb)
-3. [Binary Logistic Regression](MachineLearning/3_BinaryLogisticRegression.ipynb)
-4. [Multi Class Logistic Regression](MachineLearning/4_MultiClassLogisticRegression.ipynb)
+- [MachineLearning](MachineLearning)
+  1. [PCA](MachineLearning/1_PCA.ipynb)
+  2. [Linear Regression](MachineLearning/2_LinearRegression.ipynb)
+  3. [Binary Logistic Regression](MachineLearning/3_BinaryLogisticRegression.ipynb)
+  4. [Multi Class Logistic Regression](MachineLearning/4_MultiClassLogisticRegression.ipynb)
